@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "806897739447",
+    "firebase_url": "https://nebzy-36952.firebaseio.com",
+    "project_id": "nebzy-36952",
+    "storage_bucket": "nebzy-36952.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806897739447:android:361ddc91410fdd83",
+        "android_client_info": {
+          "package_name": "com.nebzy.mickey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806897739447-m78qjsnr51f78nucpv1ihfsjiblur0v5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nebzy.mickey",
+            "certificate_hash": "e907775d97532309b396b867218dd2eb93b6fe0f"
+          }
+        },
+        {
+          "client_id": "806897739447-97abhqbts2uljamoh3sc1g9ip2kp3qh0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nebzy.mickey",
+            "certificate_hash": "3eb62921d9d5555f3a9904cc0447dcdbcc2f599b"
+          }
+        },
+        {
+          "client_id": "806897739447-c8vb7f3e9vf4kc4mkuct5m19dtjnnrdf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nebzy.mickey",
+            "certificate_hash": "d7cfaef7a46ba941ad68b48a124611b53672ecf2"
+          }
+        },
+        {
+          "client_id": "806897739447-tevi0r20ju9s0u7hddkptthf21cnf16a.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "806897739447-lsa94ah3ssm82mf0dq440oi03hj3921p.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "806897739447-lsa94ah3ssm82mf0dq440oi03hj3921p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj6FuACcvHZLeYMehfVccD3xVFitzsIkE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806897739447-tevi0r20ju9s0u7hddkptthf21cnf16a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "806897739447-mdpshh35lsutd93qvpdkiv6meo0sipdh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dis.NebzyPush"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
